@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Samarpan (owsam22)!
-- [LinkedIn](https://linkedin.com/in/samarpan22)  [Portfolio](https://owsam22.github.io/portfolio)
+
 Aspiring **Full-Stack + AI/ML Engineer** | B.Tech CSE (Data Science) Student  
 Freelance Web & App Developer | Curious Creator
 
 ---
-
+- [LinkedIn](https://linkedin.com/in/samarpan22) . [Portfolio](https://owsam22.github.io/portfolio)
 
 ## 🚀 Skills & Toolbox
 
