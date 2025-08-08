@@ -4,9 +4,7 @@ Aspiring **Full-Stack + AI/ML Engineer** | B.Tech CSE (Data Science) Student
 Freelance Web & App Developer | Curious Creator
 
 ---
-- [LinkedIn](https://linkedin.com/in/samarpan22)
-- [GitHub](https://github.com/owsam22)
-- [Portfolio](https://owsam22.github.io/portfolio)
+- [LinkedIn](https://linkedin.com/in/samarpan22) - [Portfolio](https://owsam22.github.io/portfolio)
 
 ## 🚀 Skills & Toolbox
 
