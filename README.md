@@ -1,69 +1,82 @@
-# 👋 Hi there, I'm Samarpan (owsam22)!
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Banner">
+</p>
 
-Aspiring **Full-Stack + AI/ML Engineer** | B.Tech CSE (Data Science) Student  
-Freelance Web & App Developer | Curious Creator
+<!-- Animated Typing Effect -->
+<h1 align="center">
+  Hi there, I'm Samarpan 👋
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Freelance+Web+%26+App+Developer;Always+learning+%26+building" alt="Typing SVG" />
+</p>
 
 ---
-- [LinkedIn](https://linkedin.com/in/samarpan22) . [Portfolio](https://owsam22.github.io/portfolio)
 
 ## 🚀 Skills & Toolbox
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `Tailwind` `React`
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Backend:**  
-`Node.js` `Express` `MongoDB` `Firebase`
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**AI & Scripting:**  
-`Python` (automation, ML, scripting)  
-`AI Integration:` OpenRouter, API/LLM apps
+**AI & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Apps-FF6F00?style=for-the-badge)
 
-**Design:**  
-`UI/UX` | Canva | Figma
-
-**Dev Tools:**  
-`Git` `GitHub` `VS Code`
+**Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 🌟 Favorite Projects
+## 🌟 Featured Projects
 
-- [TravelMate](https://github.com/owsam22/travelmate) — *AI-powered travel planner*
-- [Cute Selfie Cam](https://github.com/owsam22/cutiecam) — *Mobile-style web camera*
-- **Fitness Planner** — *AI diet/workout generator* (**coming soon!**)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [TravelMate](https://github.com/owsam22/travelmate) | AI-powered travel planner with real-time insights | React, OpenAI API |
+| [Cute Selfie Cam](https://github.com/owsam22/cutiecam) | Mobile-style selfie camera in browser | HTML, JS, CSS |
+| **Fitness Planner** *(Coming Soon)* | AI diet/workout generator | Node.js, Python |
 
 ---
 
 ## 🏆 Achievements
 
-- Built multiple full-stack apps with AI features
-- Learning path focused on AI + Product Engineering
-- Modern UI web dev projects
+- Built multiple **full-stack apps** with AI features  
+- Created projects with **modern UI/UX** principles  
+- Freelance experience in **web & app development**
 
 ---
 
-## 🎮 Hobbies & Interests
+## 🎮 Outside of Code
 
-- Building fun side projects
-- Learning AI, ML, and new tools
-- Gaming, design, app development
-- Exploring platforms: Adobe Express, Canva, Notion
+- 🎯 Building fun side projects  
+- 📚 Exploring AI & ML  
+- 🎨 UI/UX Design  
+- 🎮 Gaming
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/samarpan22)
-- [GitHub](https://github.com/owsam22)
-- [Portfolio](https://owsam22.github.io/portfolio)
+<p align="left">
+  <a href="https://linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://owsam22.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ✨ Motto
-
-> **“Building with code and curiosity.”**  
+> **"Building with code and curiosity."**  
 > Always learning. Always shipping.
 
 ---
-
-📬 *Feel free to connect or collaborate!*
