@@ -4,11 +4,9 @@
 </p>
 
 <!-- Animated Typing Effect -->
-<h1 align="center">
-  Hi there, I'm Samarpan 👋(owsam22)
-</h1>
+<h1 align="center">Hi there, I'm Samarpan 👋 (owsam22)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Freelance+Web+%26+App+Developer;Always+learning+%26+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Freelance+Web+%26+App+Developer;Always+learning+%26+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,26 +46,32 @@
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- Built multiple **full-stack apps** with AI features  
-- Created projects with **modern UI/UX** principles  
-- Freelance experience in **web & app development**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=owsam22&theme=radical&border_radius=10" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsam22&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
 
 ---
+
+
 
 ## 🎮 Outside of Code
 
 - 🎯 Building fun side projects  
 - 📚 Exploring AI & ML  
 - 🎨 UI/UX Design  
-- 🎮 Gaming
+- 🎮 Gaming  
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://owsam22.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -78,5 +82,3 @@
 ## ✨ Motto
 > **"Building with code and curiosity."**  
 > Always learning. Always shipping.
-
----
