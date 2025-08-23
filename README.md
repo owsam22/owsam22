@@ -40,7 +40,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [TravelMate](https://github.com/owsam22/travelmate) | AI-powered travel planner with real-time insights | React, OpenAI API |
+| [TravelMate](https://github.com/owsam22/travelmate) | AI-powered travel planner with real-time insights | HTML,CSS,JS, OpenRouter API |
+| [Trackit-Expense tracker](https://github.com/owsam22/expense-tracker) | A light-weight expense traker with live update | HTML,JS,CSS, Google sheet api |
 | [Cute Selfie Cam](https://github.com/owsam22/cutiecam) | Mobile-style selfie camera in browser | HTML, JS, CSS |
 | **Fitness Planner** *(Coming Soon)* | AI diet/workout generator | Node.js, Python |
 
