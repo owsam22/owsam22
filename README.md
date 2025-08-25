@@ -35,6 +35,15 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+## 🚀 About Me  
+- 🔭 Currently building **AI-powered projects** (Travel, Fitness, Task Manager)  
+- 🌱 Learning **Python, Data Science, and Full-Stack Development**  
+- 🎯 Goal: **Become a Full-Stack AI/ML Developer**  
+- ⚡ Fun fact: I love blending **design with development**  
+
+
+
+---
 
 ## 🌟 Featured Projects
 
