@@ -57,7 +57,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+```
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=owsam22&theme=radical&border_radius=10" alt="streak" height="160"/>
 </p>
@@ -67,7 +67,7 @@
 </p>
 
 ---
-
+```
 
 
 ## 🎮 Outside of Code
