@@ -1,12 +1,8 @@
 <!-- Profile Banner -->
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
-</p> -->
-
-<!-- happy holi bannner for today -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/c2/38/47c238b7f9a2aa04cc4e619b75569c01.gif" alt="hapy holi" align="center" />
-</p>
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
+</p> 
+
 
 <!-- Animated Typing Effect -->
 <h1 align="center">Hi there, I'm Samarpan 👋 (owsam22)</h1>
