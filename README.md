@@ -53,6 +53,7 @@
 |---------|-------------|------|
 | [TravelMate](https://github.com/owsam22/travelmate) | AI-powered travel planner with real-time insights | HTML,CSS,JS, OpenRouter API |
 | [Trackit-Expense tracker](https://github.com/owsam22/expense-tracker) | A light-weight expense traker with live update | HTML,JS,CSS, Google sheet api |
+| [QuickChat](https://github.com/owsam22/chat-room) | Temporary real-time chat rooms with session-based message history, QR join, and live presence | React, TypeScript, Socket.io, Node.js, Express |
 
 
 ---
