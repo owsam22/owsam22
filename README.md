@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif" alt="newgif" align="center" />
+  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="newgif" align="center" />
 </p> 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
