@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="newgif" align="center" />
 </p> 
-<p align="center">
+<!--
+ <p align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" align="center" />
-</p> 
+</p>  
+-->
 
 
 <!-- Animated Typing Effect -->
@@ -14,6 +16,16 @@
 </p>
 
 ---
+
+## 🌐 Connect with Me 
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="Handshake GIF">Find Me Across the Web </h3>
+<p align="center">
+  <a href="https://linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://owsam22.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+
 
 ## 🚀 Skills & Toolbox
 
@@ -84,15 +96,7 @@
 - 🎨 UI/UX Design  
 - 🎮 Gaming  
 
----
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://owsam22.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
 
 ---
 
