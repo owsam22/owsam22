@@ -14,8 +14,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI%2FML+Engineer;B.Tech+CSE+(Data+Science)+Student;Freelance+Web+%26+App+Developer;Always+learning+%26+building" alt="Typing SVG" />
 </p>
+<p align ="center">
+    <img src="https://komarev.com/ghpvc/?username=owsam22&label=SYSTEM%20VIEWS&color=00C7FF&style=flat-square" alt="Views" />
+</p>
 
----
 
 ## 🌐 Connect with Me 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" alt="Handshake GIF">Find Me Across the Web </h3>
@@ -76,13 +78,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=owsam22&theme=radical&border_radius=10" alt="streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=owsam22&theme=tokyonight&border_radius=10" alt="streak" width="900" height="500"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsam22&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsam22&layout=compact&theme=radical" alt="Top Langs" width="500" height="369"/>
 </p>
 
 ---
