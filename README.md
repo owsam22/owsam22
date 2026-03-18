@@ -100,6 +100,8 @@
 
 ---
 
-## ✨ Motto
-> **"Building with code and curiosity."**  
-> Always learning. Always shipping.
+
+<p align="center">
+  <i>"Building with code and curiosity. Always learning. Always shipping."</i> <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
