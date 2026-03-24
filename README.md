@@ -65,13 +65,25 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-
-| **Project** | **Highlights** | **Stack** |
-| :--- | :--- | :--- |
-| **[TravelMate](https://github.com/owsam22/travelmate)** | 🌍 AI-powered travel planner with personalized itineraries and real-time insights. | `HTML` `CSS` `JS` `OpenRouter API` |
-| **[Trackit](https://github.com/owsam22/expense-tracker)** | 💸 Lightweight expense tracker featuring live updates and Google Sheets integration. | `HTML` `CSS` `JS` `Google Sheets API` |
-| **[QuickChat](https://github.com/owsam22/chat-room)** | 💬 Real-time chat rooms with QR code join, presence tracking, and session history. | `React` `TS` `Socket.io` `NodeJS` |
-
+  <table>
+    <tr>
+      <td width="33%">
+        <a href="https://github.com/owsam22/pixel-engineer-live-wallpaper">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=pixel-engineer-live-wallpaper&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/owsam22/easy-share">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=easy-share&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="33%">
+        <a href="https://github.com/owsam22/chat-room">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=chat-room&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
