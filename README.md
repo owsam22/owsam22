@@ -109,7 +109,7 @@
 
 <div align="center">
   
-  🎮 Gaming & eSports Enthusiast | 🎨 UI/UX Design Aficionado | 📚 AI Ethics Explorer | 🚀 Building Side hustles
+   🎨 UI/UX Design Aficionado | 📚 AI Ethics Explorer | 🚀 Building Side hustles
   
 </div>
 
