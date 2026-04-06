@@ -82,6 +82,11 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=chat-room&theme=tokyonight&hide_border=true" />
         </a>
       </td>
+       <td width="33%">
+        <a href="https://github.com/owsam22/auto-trigger-your-backend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=auto-trigger-your-backend&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
