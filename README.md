@@ -67,7 +67,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="30%">
+      <td width="33%">
         <a href="https://github.com/owsam22/pixel-engineer-live-wallpaper">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=pixel-engineer-live-wallpaper&theme=tokyonight&hide_border=true" />
         </a>
