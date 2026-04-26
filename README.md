@@ -1,10 +1,11 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Samarpan%20(owsam22)&fontSize=70&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast&descSize=25&descAlign=50&descAlignY=55" width="100%" />
+<p align ="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" width="100%" />
+  <a href="https://samarpan-portfolio.vercel.app">
+  <img src ="github-banner.png">
+  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header" width="100%" />
 </p>
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI/ML+Engineer;B.Tech+CSE+(Data+Science)+Student;Building+Scalable+AI+Applications;Always+Learning,+Always+Shipping" alt="Typing SVG" />
 </p>
@@ -16,7 +17,7 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/samarpan22" target="_blank">
+  <a href="https://linkedin.com/in/owsam22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://owsam22.github.io/portfolio" target="_blank">
@@ -129,3 +130,4 @@
   <b>"Automating the present, building the future."</b> <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </p>
+
