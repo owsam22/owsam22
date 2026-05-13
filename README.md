@@ -28,7 +28,11 @@
   </a>
 </p>
 
+## 🌌 My Git Galaxy
+[![View my Git Galaxy](https://raw.githubusercontent.com/owsam22/owsam22/main/git-galaxy-preview.png)](https://gitgalaxy.netlify.app/owsam22)
 
+> [!TIP]
+> Click the image above to explore my interactive 3D contribution galaxy!
 
 <h2 align="center">💻 Tech Stack & Toolbox</h2>
 
