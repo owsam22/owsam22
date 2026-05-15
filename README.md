@@ -29,7 +29,7 @@
 </p>
 
 ## 🌌 My Git Galaxy
-[![Preview](git-galaxy-preview.gif)](https://gitgalaxy.netlify.app/owsam22)
+[![Preview](git-galaxy-prefiew.gif)](https://gitgalaxy.netlify.app/owsam22)
 > [!TIP]
 > Click the image above to explore my interactive 3D contribution galaxy!
 
