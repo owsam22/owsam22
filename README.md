@@ -34,6 +34,7 @@
     <img src="git-galaxy-prefiew.gif" width="900" alt="Preview">
   </a>
 </p>
+
 > [!TIP]
 > Click the image above to explore my interactive 3D contribution galaxy!
 
