@@ -30,7 +30,7 @@
 
 ## 🌌 My Git Galaxy
 <a href="https://gitgalaxy.netlify.app/owsam22">
-  <img src="https://raw.githubusercontent.com/owsam22/owsam22/main/git-galaxy-preview.gif" width="100%">
+  <img src="git-galaxy-preview.gif" width="100%">
 </a>
 
 > [!TIP]
