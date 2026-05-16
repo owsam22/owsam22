@@ -1,17 +1,19 @@
 <!-- Header Section -->
 <p align ="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" width="100%" />
   <a href="https://samarpan-portfolio.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" width="100%" />
   <img src ="github-banner.png">
-  </a>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header" width="100%" />
+  </a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+%2B+AI/ML+Engineer;B.Tech+CSE+(Data+Science)+Student;Building+Scalable+AI+Applications;Always+Learning,+Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/owsam22">
   <img src="https://komarev.com/ghpvc/?username=owsam22&label=VISITOR%20COUNT&color=00C7FF&style=flat-square" alt="Views" />
+  </a>
 </p>
 
 
