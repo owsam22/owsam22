@@ -73,35 +73,6 @@
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <a href="https://github.com/owsam22/pixel-engineer-live-wallpaper">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=pixel-engineer-live-wallpaper&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/owsam22/easy-share">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=easy-share&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="33%">
-        <a href="https://github.com/owsam22/git-galaxy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=git-galaxy&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-       <td width="33%">
-        <a href="https://github.com/owsam22/auto-trigger-your-backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=auto-trigger-your-backend&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 
@@ -113,9 +84,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsam22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180M" />
-</div>
 
 ---
 
