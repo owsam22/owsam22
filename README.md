@@ -108,7 +108,7 @@
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=owsam22&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=owsam22&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
