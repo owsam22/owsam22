@@ -89,8 +89,8 @@
         </a>
       </td>
       <td width="33%">
-        <a href="https://github.com/owsam22/chat-room">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=chat-room&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/owsam22/git-galaxy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=owsam22&repo=git-galaxy&theme=tokyonight&hide_border=true" />
         </a>
       </td>
        <td width="33%">
