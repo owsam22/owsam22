@@ -17,95 +17,58 @@
 </p>
 
 
-<h2 align="center">🤝 Connect With Me</h2>
+<!-- BOX GRID STARTS HERE -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 About Me
+**Full-Stack Developer** & **AI/ML Enthusiast** — B.Tech CSE (Data Science) student building intelligent, scalable apps where design meets development.
+
+- 🌱 Learning: Deep Learning & Cloud Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Currently Building
+- 🔗 [Project Name 1](https://github.com/owsam22/repo-1)
+- 🔗 [Project Name 2](https://github.com/owsam22/repo-2)
+- 🔗 [Project Name 3](https://github.com/owsam22/repo-3)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=owsam22&theme=dracula&short_numbers=true&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <a href="https://linkedin.com/in/owsam22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://samarpan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:samarpan.works@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  🤝 <b>Let's Connect:</b>
+  <a href="https://linkedin.com/in/owsam22" target="_blank">LinkedIn</a> ·
+  <a href="https://samarpan-portfolio.vercel.app" target="_blank">Portfolio</a> ·
+  <a href="mailto:samarpan.works@gmail.com">Email</a>
 </p>
 
-## 🌌 My Git Galaxy
 <p align="center">
-  <a href="https://gitgalaxy.netlify.app/owsam22">
-    <img src="git-galaxy-prefiew.gif" width="900" alt="Preview">
-  </a>
-</p>
-
-> [!TIP]
-> Click the image above to explore my interactive 3D contribution galaxy!
-
-<h2 align="center">💻 Tech Stack & Toolbox</h2>
-
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| **AI & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Tools & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
-</div>
-
----
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm a passionate <b>Full-Stack Developer</b> and <b>AI/ML Enthusiast</b> with a focus on building intelligent, scalable, and user-centric applications. Currently pursuing my <b>B.Tech in Computer Science (Data Science)</b>, I love blending the art of design with the logic of development.
-</p>
-
-<div align="center">
-  
-- 🔭 **Focusing on**: AI-powered productivity & fitness tools
-- 🌱 **Learning**: Advanced Deep Learning & Cloud Architecture
-- 🎯 **Goal**: To innovate at the intersection of AI and Web Development
-- ⚡ **Vibe**: High-performance code with a sleek UI/UX touch
-
-</div>
-
-
-
----
-
-
----
-
-<h2 align="center">📊 GitHub Metrics</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=owsam22&theme=dracula&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-
----
-
-
-
-<h2 align="center">⚡ Beyond the Terminal</h2>
-
-<div align="center">
-  
-   🎨 UI/UX Design Aficionado | 📚 AI Ethics Explorer | 🚀 Building Side hustles
-  
-</div>
-
-
-
----
-
-
-<br />
-
-<p align="center">
-  <b>"Automating the present, building the future."</b> <br/>
+  <b>"Automating the present, building the future."</b><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </p>
-
