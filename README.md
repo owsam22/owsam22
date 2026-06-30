@@ -31,7 +31,7 @@
 <td width="50%" valign="top">
 
 ### 🚧 Currently Building
-- 🔗 [Telegram bot for google form Name 1](https://github.com/owsam22/google-sheet-notification-bot)
+- 🔗 [Telegram bot for google form](https://github.com/owsam22/google-sheet-notification-bot)
 - 🔗 [GitGalaxy](https://github.com/owsam22/git-galaxy)
 
 
