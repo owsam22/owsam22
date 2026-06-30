@@ -31,9 +31,9 @@
 <td width="50%" valign="top">
 
 ### 🚧 Currently Building
-- 🔗 [Project Name 1](https://github.com/owsam22/repo-1)
-- 🔗 [Project Name 2](https://github.com/owsam22/repo-2)
-- 🔗 [Project Name 3](https://github.com/owsam22/repo-3)
+- 🔗 [Telegram bot for google form Name 1](https://github.com/owsam22/google-sheet-notification-bot)
+- 🔗 [GitGalaxy](https://github.com/owsam22/git-galaxy)
+
 
 </td>
 </tr>
