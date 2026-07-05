@@ -65,8 +65,7 @@
 
 <p align="center">
   🤝 <b>Let's Connect:</b>
-  <a href="https://linkedin.com/in/owsam22" target="_blank">LinkedIn</a> ·
-  <a href="https://samarpan-portfolio.vercel.app" target="_blank">Portfolio</a> ·
+  <a href="https://linkedin.com/in/owsam22" target="_blank">LinkedIn</a>·
   <a href="mailto:samarpan.works@gmail.com">Email</a>
 </p>
 
