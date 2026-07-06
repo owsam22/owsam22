@@ -63,20 +63,24 @@
 </tr>
 </table>
 
+<h2 align="center">🌍 Find Me Around the Web</h2>
+
 <p align="center">
-  <b>🤝 Let's Connect</b><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+build+something+awesome!;Always+learning+new+things.;Open+to+collaborations+%F0%9F%9A%80"/>
+</p>
 
-  <a href="https://linkedin.com/in/owsam22">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+<a href="https://linkedin.com/in/owsam22">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="mailto:samarpan.works@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:samarpan.works@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-  <a href="https://samarpan-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<a href="https://samarpan-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel"/>
+</a>
 </p>
 
 <p align="center">
