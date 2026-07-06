@@ -64,10 +64,19 @@
 </table>
 
 <p align="center">
-  🤝 <b>Let's Connect:</b>
-  <a href="https://linkedin.com/in/owsam22" target="_blank">LinkedIn</a>·
-  <a href="mailto:samarpan.works@gmail.com">Email</a>
-  <a href="https://samarpan-portfolio.vercel.app.com">Portfolio</a>
+  <b>🤝 Let's Connect</b><br><br>
+
+  <a href="https://linkedin.com/in/owsam22">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:samarpan.works@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://samarpan-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
