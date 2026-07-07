@@ -77,11 +77,13 @@
 <a href="mailto:samarpan.works@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://x.com/owsam22>connect on X </a>
+
   
 <a href="https://samarpan-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel"/>
 </a>
+
+<a href="https://x.com/owsam22">connect on X </a>
 </p>
 
 <p align="center">
