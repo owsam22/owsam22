@@ -83,7 +83,9 @@
 <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://x.com/owsam22">connect on X </a>
+<a href="https://x.com/owsam22">
+<img src="https://img.shields.io/twitter/follow/:owsam22-000000?style=for-the-badge&logo=x"/>
+</a>
 </p>
 
 <p align="center">
