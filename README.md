@@ -69,6 +69,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+build+something+awesome!;Always+learning+new+things.;Open+to+collaborations+%F0%9F%9A%80"/>
 </p>
 
+<!--contact section--->
 <p align="center">
 <a href="https://linkedin.com/in/owsam22">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
