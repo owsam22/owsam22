@@ -84,7 +84,7 @@
 </a>
 
 <a href="https://x.com/owsam22">
-<img src="https://img.shields.io/twitter/follow/:owsam22-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/twitter/follow/:owsam22?style=for-the-badge&logo=x"/>
 </a>
 </p>
 
