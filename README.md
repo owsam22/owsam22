@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<!-- Header Section for poster banner-->
 <p align ="center">
   <a href="https://samarpan-portfolio.vercel.app">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" width="100%" />
