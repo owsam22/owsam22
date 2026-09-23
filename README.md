@@ -94,7 +94,7 @@
 </a>
 
   
-<a href="https://samarpan-portfolio.vercel.app">
+<a href="https://portfolio.owsam22.com">
 <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
