@@ -1,6 +1,6 @@
 <!-- poster banner-->
 <p align ="center">
-  <a href="https://samarpan-portfolio.vercel.app">
+  <a href="https://portfolio.owsam22.com">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" width="100%" />
   <img src ="github-banner.png">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header" width="100%" />
@@ -79,8 +79,15 @@
 
 <h2 align="center">🌍 Find Me Around the Web</h2>
 
+<!-- SAMARPAN WEB SOLUTIONS BANNER (Static Domain + Typing Services) -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+build+something+awesome!;Always+learning+new+things.;Open+to+collaborations+%F0%9F%9A%80"/>
+  <a href="https://owsam22.com">
+    <span style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: bold; color: #00FF9D;">
+      owsam22.com
+    </span>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Samarpan+Web+Solutions+%E2%80%94+Custom+Full-Stack+%2B+AI;%F0%9F%9A%80+Building+Scalable+Web+%26+AI+Applications;%F0%9F%9B%A0%EF%B8%8F+Explore+Services+%26+Book+a+Project+%E2%9E%94" alt="Samarpan Web Solutions" />
+  </a>
 </p>
 
 <!--contact section--->
