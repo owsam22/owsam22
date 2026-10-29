@@ -32,7 +32,7 @@
 
 ### 🚧 Currently Building
 - 🔗 [Typerace](https://typerace.owsam22.com)
-- 🔗 [DynamicDesk](https://formtake.owsam22.com)
+- 🔗 [DynamicDesk](https://github.com/owsam22/dynamic-wallpaper-engine)
 - 🔗 [And Many More ](https://github.com/owsam22?tab=repositories)
   
 
